@@ -1,0 +1,45 @@
+body {
+    margin: 20px;
+    font-family: Courier New, Courier, monospace;
+    color: #299148;
+}
+
+
+.avatar{
+    width: 150px;
+    border-radius: 98% 49% 64% 74% / 64% 78% 68% 38% ;
+    border: 1px solid #414833;
+}
+
+.col-p{
+    color: #061a40;
+}
+
+.col-h4{
+    color: #3c096c;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background-color: #A4AC86;
+    color: #333D29;
+    border-bottom: 6px solid #656D4A;
+    border-radius: 5px;
+    border-left: 6px solid #333d29;
+        
+   
+}
+
+
+
+
+/*
+
+Downloading the code to your local computer and place it
+in a folder called "business-card"
+*/
